@@ -1,0 +1,26 @@
+_repo: The-Ordinance-of-Covenanting_25353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunningham, John
+    birthdate: 1819
+    deathdate: 1893
+    gutenberg_agent_id: '31273'
+    url: http://www.gutenberg.org/2009/agents/31273
+description: ''
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Covenant theology'
+title: The Ordinance of Covenanting
+url: http://www.gutenberg.org/ebooks/25353
