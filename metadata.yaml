@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31273'
     url: http://www.gutenberg.org/2009/agents/31273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25353#The-Ordinance-of-Covenanting
 gutenberg_issued: '2008-05-06'
 gutenberg_type: Text
 identifiers:
